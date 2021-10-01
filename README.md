@@ -1,13 +1,13 @@
 ![HacktoberFestBanner](../../blob/main/_src/banner-dark.png)
 
-HI, This is October.
+Hi, This is October.
 
 And you guys are saying so, What?
 
 THIS IS HACKTOBER FEST 2021. YES, the event of FREE swag.
 A full month even is started. Wohooo.
 
-(Submit 4 PR and Get a Tees from HacktoberFest 2021, *not from me.* )
+(Submit 4 PR and Get a Tee from HacktoberFest 2021, *not from us.* )
 
 ### Rules
 
@@ -24,7 +24,7 @@ A full month even is started. Wohooo.
  - Tap on "Start Hacking"
  - Sign up with GitHub. (GitLab not supported here)
  - Fill about you. and go ahead.
- - Complete all the Steps. Wohoo
+ - Complete all the Steps. Good to go
  - Now submit 4 repo here. That's all.
 
 ![HacktoberFestBanner](../../blob/main/_src/footer-dark.png)
