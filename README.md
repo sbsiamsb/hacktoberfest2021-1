@@ -27,4 +27,12 @@ A full-month event is started. Wohooo.
  - Complete all the Steps. Good to go
  - Now submit 4 repo here. That's all.
 
+### How to submit PR?
+
+Google It!
+But why don't you tell us, simply here?
+Googling is a very demanding skill to have in programming world. If you don't re-search when building any app/website then technically you are not following the code-of-conduct or your are OQ (over-qualified).
+
+Still If you wanna know. [GitHub Docs](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). After reading this, There is further reading in the same link everything is documented.
+
 ![HacktoberFestBanner](../../blob/main/_src/footer-dark.png)
