@@ -1,0 +1,40 @@
+.table-header {
+  background: linear-gradient(to left, #FF0844, #FF4563);
+  color: white;
+  text-align: center;
+}
+table {
+  table-layout: fixed;
+}
+
+.table td {
+    background-color: #fff !important;
+    padding: 15px;
+}
+
+section {
+  margin-top: 75px;
+}
+
+a {
+  color: #ff0844;
+}
+a:hover {
+  color: #96334f;
+}
+h1,p{
+  padding: 10px;
+  font-weight: bold;
+  text-align: center;
+  color: rgb(63, 1, 63) ;
+  text-transform: inherit;
+  
+}
+h2{
+  padding: 5px;
+  font-weight: bold;
+  text-align: center;
+  color:rgb(34, 3, 90) ;
+  text-transform: inherit;
+
+}
